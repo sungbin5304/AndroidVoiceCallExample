@@ -1,2 +1,2 @@
-# AndroidVoiceCallExample_VoIP
+# AndroidVoiceCallExample
 Use Sinch Library
